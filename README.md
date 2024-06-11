@@ -1,4 +1,4 @@
-# comp3900_git_primer
+# comp3900/9900_git_primer
 
 ```
 repository/
